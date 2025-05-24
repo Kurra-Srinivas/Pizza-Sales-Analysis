@@ -81,7 +81,7 @@ pizza-sales-analysis/
 
 ## 🖼️ Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Kurra-Srinivas/Pizza-Sales-Analysis/blob/main/Excel_Dashboard_img.png)
 
 
 ---
