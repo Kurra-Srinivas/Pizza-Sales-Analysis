@@ -1,4 +1,3 @@
-![Pizza-Sales-Analysis](https://github.com/Kurra-Srinivas/Pizza-Sales-Analysis/blob/main/Readme%20img.png)
 # 🍕 Pizza Sales Analysis Dashboard
 
 This project analyzes pizza sales data using **MySQL** for querying and **Microsoft Excel** for data manipulation and dashboard creation.It analyzes a dataset of approximately 50,000 pizza sales records with 12 columns. The analysis involves querying the data using MySQL, performing data manipulations in Excel, and creating pivot tables, pivot charts, and a dashboard to visualize key insights.
