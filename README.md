@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis Dashboard
 
-This project analyzes pizza sales data using **MySQL** for querying and **Microsoft Excel** for data manipulation and dashboard creation. It aims to provide actionable business insights through key performance indicators (KPIs) and rich visualizations.
+This project analyzes pizza sales data using **MySQL** for querying and **Microsoft Excel** for data manipulation and dashboard creation.It analyzes a dataset of approximately 50,000 pizza sales records with 12 columns. The analysis involves querying the data using MySQL, performing data manipulations in Excel, and creating pivot tables, pivot charts, and a dashboard to visualize key insights.
 
 ---
 
@@ -67,19 +67,12 @@ pizza-sales-analysis/
 
 ## 🚀 Getting Started
 
-1. **Clone the repo:**
-
-   ```bash
-   git clone https://github.com/yourusername/pizza-sales-analysis.git
-   cd pizza-sales-analysis
-   ```
-
-2. **MySQL Analysis:**
+1. **MySQL Analysis:**
    - Open `mysql/queries.sql` in MySQL Workbench
    - Load your `pizza_sales.csv` data
    - Run and customize the queries for your insights
 
-3. **Excel Dashboard:**
+2. **Excel Dashboard:**
    - Open `excel/Pizza_Sales_Dashboard.xlsx`
    - Explore PivotTables and visual dashboards
 
@@ -87,7 +80,7 @@ pizza-sales-analysis/
 
 ## 🖼️ Preview
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview]("C:\Users\srini\OneDrive\Desktop\DA_project\Pizza_Sales\Pizza Data For SQL & Excel\Excel_Dashboard_img.png")
 
 ---
 
@@ -100,9 +93,7 @@ pizza-sales-analysis/
 ---
 
 ## ✍️ Author
-
-**Your Name**  
-📧 your.email@example.com  
+📧[Email]:(srinivaskurra886@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 🔗 [Portfolio](https://yourportfolio.com)
 
